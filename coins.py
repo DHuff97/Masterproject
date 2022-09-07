@@ -28,4 +28,4 @@ while(cents_input_int >= 1):
     cents_input_int = cents_input_int - 1
 
 
-print(f" The coins are  {quarters_num} quarters ,  {dimes_num} dimes ,  {nickels_num} nickels and {pennies_num} pennies")
+print(f" The coins are  {quarters_num} quarters  ,  {dimes_num} dimes  ,  {nickels_num} nickels  and  {pennies_num} pennies ")
